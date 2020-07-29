@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    background-color: rgb(247, 244, 244);
+    font-size: 14px;
+  }
+  
+  .van-icon{
+    font-size: 20px;
+  }
